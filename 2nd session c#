@@ -1,0 +1,76 @@
+namespace _2nd_session
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //double temp = 0;
+            //int windSpeed = 0;
+            //bool wearJacket = false;
+
+            //const int windSpeedForCoat = 25;
+
+            //const double temperatureForCoat = 22;
+
+            //Console.Write("Enter temperature = ");
+            //temp = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Enter wind speed = ");
+            //windSpeed = Convert.ToInt32(Console.ReadLine());
+
+            //wearJacket = windSpeed > windSpeedForCoat || temp < temperatureForCoat;
+
+            //Console.WriteLine(wearJacket);
+
+
+            // =====================================
+
+
+            //double baseCost = 2.5;
+
+            //double length = 0, width = 0 , height = 0;
+
+            //Console.WriteLine("Please Enter length = ");
+            //length = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Please Enter width = ");
+            //width = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Please Enter height = ");
+            //height = Convert.ToInt32(Console.ReadLine());
+
+            //double packageVolume = length * width * height ;
+
+            //if (packageVolume > 100)
+            //{
+            //   Console.WriteLine( packageVolume*= (baseCost * 1.10)); 
+            //}else if (packageVolume > 500)
+            //{
+            //    Console.WriteLine(packageVolume *= (baseCost * 1.25));
+            //}
+
+            // ==========================================
+
+            //double currency = 0;
+
+            //Console.WriteLine("Enter amount money you want to convert = ");
+            //currency = Convert.ToDouble(Console.ReadLine());
+           
+         
+            //Console.WriteLine("Do you wish to convert to USD or SAR? ");
+            //string ans = Console.ReadLine();
+            //Console.WriteLine();
+
+            //if (ans == "SAR")
+            //{
+            //    Console.WriteLine($"Money in SAR =  {currency / 13}S.R");
+
+            //}else if (ans == "USD")
+            //{
+            //    Console.WriteLine($"Money in USD =  {currency / 49}$");
+               
+            //}
+
+
+
+
+        }
+    }
+}
